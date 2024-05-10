@@ -6,7 +6,7 @@ Cyber Security Expert Candidate.
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Vulnerability Researcher. 
+<div>&nbsp&nbspHello, I am a 22-year-old third-year university student. My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, Now, I aim to enhance my skills in cybersecurity and actively pursue education in this field. I am taking numerous courses on platforms like Udemy, TryHackMe, HackTheBox, and others, learning new things every day. I aspire to specialize in Security Operations Center (SOC), Network Security, Vulnerability Research and Cloud Security. I am preparing to obtain various certifications to further my expertise in these areas.</div>
 
 ## Skills & Interests
 
