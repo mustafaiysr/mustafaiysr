@@ -10,10 +10,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Skills & Interests
 
+<div>HTML-CSS</div>
 <div>Python</div>
 <div>Go</div>
 <div>Php</div>
 <div>Sql</div>
+<div>Linux</div>
 <div>Amazon Aws</div>
 <div>Docker</div>
 <div>Kurbernetes</div>
