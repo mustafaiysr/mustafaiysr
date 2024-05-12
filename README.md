@@ -14,7 +14,7 @@ Cyber Security Expert Candidate.
 <div>Python</div>
 <div>Go</div>
 <div>Php</div>
-<div>Sql</div>
+<div>SQL</div>
 <div>Linux</div>
 <div>Amazon Aws</div>
 <div>Docker</div>
