@@ -16,10 +16,6 @@ Cyber Security Expert Candidate.
 <div>Php</div>
 <div>SQL</div>
 <div>Linux</div>
-<div>Amazon Aws</div>
-<div>Docker</div>
-<div>Kurbernetes</div>
-<div>Azure</div>
 
 ## Skills
 
