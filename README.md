@@ -2,8 +2,7 @@
 # Hello, I'm Mustafa İkbal Yaşar
 <a href="https://www.linkedin.com/in/mustafa-ikbal-yasar1/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Cyber Security Expert Candidate. 
-
+Cyber Security Expert Candidate | IT | Network Security |
 ## Objective
 
 <div>&nbsp&nbspHello, I am a 22-year-old senior university student. Throughout my journey in computer science, I have developed a strong passion for cybersecurity, networking, and network security. 
