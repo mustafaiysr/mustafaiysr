@@ -6,16 +6,23 @@ Cyber Security Expert Candidate.
 
 ## Objective
 
-<div>&nbsp&nbspHello, I am a 22-year-old third-year university student. My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, Now, I aim to enhance my skills in cybersecurity and actively pursue education in this field. I am taking numerous courses on platforms like Udemy, TryHackMe, HackTheBox, and others, learning new things every day. I aspire to specialize in Security Operations Center (SOC), Network Security, Vulnerability Research and Cloud Security. I am preparing to obtain various certifications to further my expertise in these areas.</div>
+<div>&nbsp&nbspHello, I am a 22-year-old senior university student. Throughout my journey in computer science, I have developed a strong passion for cybersecurity, networking, and network security. 
+    
+Additionally, my interest in Linux has grown as I’ve come to realize its crucial role in these domains. I am excited to pursue a career that combines these areas.
+
+I am actively learning through platforms like Udemy, TryHackMe, and HackTheBox, constantly improving my skills every day. My goals include specializing in Network Security, Security Research, Vulnerability Assessment, Cloud Security, and Linux system administration.
+
+To further advance my expertise, I am also preparing for various certifications related to cybersecurity, networking, and Linux, all of which will help me solidify my knowledge and advance my career in these fields.</div>
 
 ## Skills & Interests
 
 <div>HTML-CSS</div>
 <div>Python</div>
-<div>Go</div>
 <div>Php</div>
-<div>SQL</div>
-<div>Linux</div>
+<div>Fortinet FortiGate</div>
+<div>Cyber Security - Red Team</div>
+<div>Linux / Bash </div>
+<div>Network Security</div>
 
 ## Skills
 
@@ -48,13 +55,11 @@ Cyber Security Expert Candidate.
      <img src="https://img.shields.io/badge/-Snort-5586B4?&style=for-the-badge&logo=Snort&logoColor=white" />
 </div>
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CrowdStrike-3D81F6?&style=for-the-badge&logo=CrowdStrike&logoColor=white" />
-</div>
-
 ## Certifications
+<img src="https://img.shields.io/badge/-CompTIA%20Security+-E24033?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cisco%20CCNA-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/-Fortinet-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" />
+<img src="https://img.shields.io/badge/-IBM-052FAD?&style=for-the-badge&logo=IBM&logoColor=white" />
 
 
 
